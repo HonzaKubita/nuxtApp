@@ -1,0 +1,10 @@
+:root {
+  --color-main: #008ccd;
+  --color-secondary: #008cc4;
+  --color-background: #2f2f2f;
+
+  --color-text: #f0f0f0;
+
+  --font-common: 'Open Sans', sans-serif;
+  --font-main-title: 'Mitr', sans-serif;
+}
